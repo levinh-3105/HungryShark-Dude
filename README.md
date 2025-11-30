@@ -1,8 +1,5 @@
 # 🦈 Hungry Shark Dude: Reverse Engineered & Reimagined
 
-Welcome to my personal project where I reverse engineer the classic **Game Boy** game *Fish Dude* and transform it into a gameplay experience inspired by the modern mobile hit *Hungry Shark*.
-
----
 ![Static Badge](https://img.shields.io/badge/Project-Reverse%20Engineering-red?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Tools-Ghidra-orange?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Tools-HxD-brightgreen?style=plastic)
@@ -37,22 +34,20 @@ Passwords (US)
 ## 🚧 Project Goals
 
 - ✅ Reverse engineer the *Fish Dude* ROM
-- 🔍 Document original game logic (movement, AI, level structure, etc.)
+- 🔍 Document original game logic (movement, level structure, etc.)
 - 🧠 Analyze memory layout, assets, and collision system
 - ⚙️ Build tools or scripts to assist in ROM disassembly/modification
 - 🎯 Add new gameplay elements:
   - Score/XP system
-  - Growing fish mechanic
-  - Predators and power-ups
-  - Dynamic difficulty/scaling
+  - Shark sprite
+  - Using HP bar instead of point
 - 📱 Make the game loop resemble *Hungry Shark*-style gameplay
-- 💾 Optional: Port to other platforms or emulators with modern controls
 
 ---
 
 ## 🧪 Development Environment
 
-- ROM hacking tools: YY-CHR
+- Tile editing tools: YY-CHR
 - Disassemblers: Ghidra
 - Hex editor: HxD
 - Emulator for testing and debugging: BGB

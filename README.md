@@ -3,6 +3,13 @@
 Welcome to my personal project where I reverse engineer the classic **Game Boy** game *Fish Dude* and transform it into a gameplay experience inspired by the modern mobile hit *Hungry Shark*.
 
 ---
+![Static Badge](https://img.shields.io/badge/Project-Reverse%20Engineering-red?style=plastic)
+![Static Badge](https://img.shields.io/badge/Tools-Ghidra-orange?style=plastic)
+![Static Badge](https://img.shields.io/badge/Tools-HxD-brightgreen?style=plastic)
+![Static Badge](https://img.shields.io/badge/License-MIT%20License-cyan?style=plastic)
+
+
+
 
 ## 🎮 Project Overview
 
